@@ -1,5 +1,6 @@
 # MSDS_DataVizG1Pikachu
-#Repository for MSDS outputs
+# Repository for MSDS outputs
+# Note: Code is specified for Anaconda Jupyter Notebook users.
 1. Download and Unzip the Compiled files folder into the same folder with the Merged_charts
 2. Run Anaconda Prompt
 3. Type: cd "C:\Users\FolderPath" Ex. cd "C:\Users\December2025\Documents\DataViz"
